@@ -1,0 +1,277 @@
+body,
+h1,
+h2,
+p,
+img {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background: white;
+}
+
+.logo,
+.ellipse,
+.vector,
+.rectangle,
+.rectangle4,
+.rectangle28,
+.calendario,
+.ganhosGastos,
+.categoriasText,
+.fintechPags,
+.duvidas,
+.biLinkedin,
+.biInstagram,
+.rectangle46,
+.categoriasTitle,
+.plus,
+.biPhoneFill,
+.biPiggyBankFill,
+.biJournals,
+.biHouseHeartFill,
+.biFuelPump,
+.biCupHotFill,
+.biCreditCard2Front,
+.biCartFill,
+.biCameraReelsFill,
+.biActivity,
+.biAirplaneFill,
+.biController {
+    position: absolute;
+}
+
+.logo {
+    width: 48px;
+    height: 48px;
+    left: 91.3%;
+    top: 2.2%;
+    border-radius: 50%;
+    border: 2px #F25387 solid;
+}
+
+.ellipse {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    border: 4px #F25387 solid;
+}
+
+.vector {
+    width: 22px;
+    height: 29.16px;
+    background: #3C3C3C;
+}
+
+.rectangle {
+    width: 256px;
+    height: 144px;
+    background: #424C55;
+    border-radius: 4px;
+    color: #ED145B;
+}
+
+.rectangle4 {
+    width: 80px;
+    height: 80px;
+    left: 8%;
+    top: 0%;
+}
+
+.rectangle28 {
+    height: 3%;
+}
+
+.calendario,
+.ganhosGastos,
+.categoriasText,
+.fintechPags,
+.duvidas,
+.biLinkedin,
+.biInstagram,
+.rectangle46,
+.categoriasTitle,
+.plus,
+.biPhoneFill,
+.biPiggyBankFill,
+.biJournals,
+.biHouseHeartFill,
+.biFuelPump,
+.biCupHotFill,
+.biCreditCard2Front,
+.biCartFill,
+.biCameraReelsFill,
+.biActivity,
+.biAirplaneFill,
+.biController {
+    font-size: 1rem;
+}
+
+.calendario {
+    left: 80%;
+    top: 3%;
+    text-decoration: none;
+}
+
+.ganhosGastos {
+    left: 71%;
+    top: 3%;
+    text-decoration: none;
+}
+
+.categoriasText {
+    left: 66%;
+    top: 3%;
+    text-decoration: none;
+}
+
+.fintechPags {
+    left: 5%;
+    bottom: 2%;
+}
+
+.duvidas {
+    left: 25%;
+    bottom: 2%;
+    line-height: 1.5;
+}
+
+.biLinkedin {
+    width: 16px;
+    height: 16px;
+    left: 5%;
+    bottom: 2%;
+}
+
+.biInstagram {
+    width: 16px;
+    height: 16px;
+    left: 10%;
+    bottom: 2%;
+}
+
+.rectangle46 {
+    width: 80px;
+    height: 80px;
+    left: 5%;
+    bottom: 1%;
+}
+
+.categoriasTitle {
+    left: 35%;
+    top: 13%;
+}
+
+.plus {
+    left: 38%;
+    bottom: 10%;
+    font-size: 2rem;
+}
+
+.biPhoneFill {
+    width: 56px;
+    height: 56px;
+    left: 80%;
+    bottom: 36%;
+}
+
+.biPiggyBankFill {
+    width: 56px;
+    height: 56px;
+    left: 36%;
+    bottom: 18%;
+}
+
+.biJournals {
+    width: 56px;
+    height: 56px;
+    left: 10%;
+    bottom: 64%;
+}
+
+.biHouseHeartFill {
+    width: 56px;
+    height: 56px;
+    left: 32%;
+    bottom: 45%;
+}
+
+.biFuelPump {
+    width: 56px;
+    height: 56px;
+    left: 10%;
+    bottom: 18%;
+}
+
+.biCupHotFill {
+    width: 56px;
+    height: 56px;
+    left: 80%;
+    bottom: 29%;
+}
+
+.biCreditCard2Front {
+    width: 56px;
+    height: 56px;
+    left: 10%;
+    bottom: 36%;
+}
+
+.biCartFill {
+    width: 56px;
+    height: 56px;
+    left: 80%;
+    bottom: 45%;
+}
+
+.biCameraReelsFill {
+    width: 56px;
+    height: 56px;
+    left: 36%;
+    bottom: 64%;
+}
+
+.biActivity {
+    width: 56px;
+    height: 56px;
+    left: 10%;
+    bottom: 45%;
+}
+
+.biAirplaneFill {
+    width: 56px;
+    height: 56px;
+    left: 36%;
+    bottom: 36%;
+}
+
+.biController {
+    width: 56px;
+    height: 56px;
+    left: 80%;
+    bottom: 53%;
+}
+
+
+.error-h1 {
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 31px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+}
+
+.error-img {
+    width: 256px;
+    height: 256px;
+    flex-shrink: 0;
+    margin: auto;
+}

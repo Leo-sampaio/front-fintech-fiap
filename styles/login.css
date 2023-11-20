@@ -1,0 +1,269 @@
+body,
+h1,
+h2,
+p,
+img {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.email-container {
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+    background: white;
+}
+
+.ellipse {
+    width: 800px;
+    height: 800px;
+    position: absolute;
+    background: rgba(242, 83, 135, 0.34);
+    border-radius: 50%;
+}
+
+.ellipse1 {
+    left: 730px;
+    top: 454px;
+}
+
+.ellipse2 {
+    left: 962px;
+    top: 279px;
+}
+
+.categorias {
+    left: 752px;
+    top: 33px;
+    position: absolute;
+    color: #555555;
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.rectangle4 {
+    width: 80px;
+    height: 80px;
+    left: 160px;
+    top: 8px;
+    position: absolute;
+}
+
+.boa-tarde {
+    left: 306px;
+    top: 33px;
+    position: absolute;
+    color: #555555;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.ganhos-gastos {
+    left: 843px;
+    top: 33px;
+    position: absolute;
+    color: #555555;
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.investimentos {
+    left: 971px;
+    top: 33px;
+    position: absolute;
+    color: #555555;
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.search-bar {
+    left: 1088px;
+    top: 30px;
+    position: absolute;
+}
+
+.rectangle32 {
+    width: 192px;
+    height: 24px;
+    position: absolute;
+    background: rgba(217, 217, 217, 0.38);
+    border-radius: 4px;
+    border: 1px #3C3C3C solid;
+    backdrop-filter: blur(4px);
+}
+
+.material-symbols-search {
+    width: 16px;
+    height: 16px;
+    position: absolute;
+}
+
+.vector {
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    background: #111111;
+}
+
+.type13 {
+    left: 1117px;
+    top: 34px;
+    position: absolute;
+    color: #5E5E5E;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 15.60px;
+    word-wrap: break-word;
+}
+
+.button {
+    width: 384px;
+    height: 40px;
+    left: 528px;
+    top: 476px;
+    position: absolute;
+    background: #ED145B;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+
+.rectangle {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.save-alteracoes {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-family: Roboto;
+    font-weight: 600;
+    word-wrap: break-word;
+}
+
+.rectangle54 {
+    width: 560px;
+    height: 256px;
+    left: 440px;
+    top: 148px;
+    position: absolute;
+    background: rgba(216.18, 216.18, 216.18, 0.46);
+    border-radius: 4px;
+    border: 1px rgba(0, 0, 0, 0.57) solid;
+    backdrop-filter: blur(4px);
+}
+
+.retornar {
+    left: 280px;
+    top: 136px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Roboto;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.bi-arrow-left-circle-fill {
+    width: 24px;
+    height: 24px;
+    left: 248px;
+    top: 131px;
+    position: absolute;
+}
+
+.email-label {
+    width: 169px;
+    height: 22px;
+    left: 636px;
+    top: 152px;
+    position: absolute;
+    text-align: center;
+    color: #222222;
+    font-size: 24px;
+    font-family: Roboto;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.group {
+    width: 24px;
+    height: 21px;
+    left: 660px;
+    top: 156px;
+    position: absolute;
+}
+
+.rectangle53 {
+    width: 256px;
+    height: 48px;
+    left: 592px;
+    top: 206px;
+    position: absolute;
+    background: rgba(217, 217, 217, 0.38);
+    border-radius: 4px;
+    border: 1.60px #3C3C3C solid;
+    backdrop-filter: blur(4px);
+}
+
+.rectangle55 {
+    width: 256px;
+    height: 48px;
+    left: 593px;
+    top: 278px;
+    position: absolute;
+    background: rgba(217, 217, 217, 0.38);
+    border-radius: 4px;
+    border: 1.60px #3C3C3C solid;
+    backdrop-filter: blur(4px);
+}
+
+.email-input-label {
+    left: 601px;
+    top: 221px;
+    position: absolute;
+    text-align: center;
+    color: #555555;
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.senha-input-label {
+    left: 601px;
+    top: 293px;
+    position: absolute;
+    text-align: center;
+    color: #555555;
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+.button:hover {
+    background-color: white;
+   
+    border-color: #ED145B;
+    border: solid 1px;
+}
+
+.save-alteracoes:hover {
+    color: #ED145B;
+}
